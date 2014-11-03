@@ -180,7 +180,9 @@ Une fois les bases de ces grands principes expliqués, William nous présente co
 
 Lien vers la présentation : [https://speakerdeck.com/willdurand/architecture-rest-on-ne-va-pas-se-mentir-blendwebmix](https://speakerdeck.com/willdurand/architecture-rest-on-ne-va-pas-se-mentir-blendwebmix)
 
-<div class="alert alert-warning" role="alert">
-  <strong>Pull-Request !</strong> Une erreur de typo ? Grammar Nazi ?
-  N'hésite pas à faire <a href="https://github.com/moriame/moriame.github.io/pulls">une PR !</a>
+
+<div class="alert alert-warning alert-pull-request" role="alert">
+  <p><strong>Pull-Request !</strong><br> Une erreur de typo ? Grammar Nazi ? <br>
+  N'hésitez pas à faire <a href="https://github.com/moriame/moriame.github.io/pulls">une PR !</a>
+  </p>
 </div>

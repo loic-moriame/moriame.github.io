@@ -21,4 +21,8 @@ a {
 
 a:hover, a:active {
   color: rgba(0, 170, 158, 1);
+
+
+.alert-pull-request {
+  margin-top: 40px;
 }

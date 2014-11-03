@@ -204,7 +204,8 @@ Voici tout de même les thèmes abordés :
 Lien vers la présentation : [http://talks.m4dz.net/pssst_tu_veux_voir_ma_stack.html](http://talks.m4dz.net/pssst_tu_veux_voir_ma_stack.html)
 
 
-<div class="alert alert-warning" role="alert">
-  <strong>Pull-Request !</strong> Une erreur de typo ? Grammar Nazi ?
-  N'hésite pas à faire <a href="https://github.com/moriame/moriame.github.io/pulls">une PR !</a>
+<div class="alert alert-warning alert-pull-request" role="alert">
+  <p><strong>Pull-Request !</strong><br> Une erreur de typo ? Grammar Nazi ? <br>
+  N'hésitez pas à faire <a href="https://github.com/moriame/moriame.github.io/pulls">une PR !</a>
+  </p>
 </div>
